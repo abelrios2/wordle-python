@@ -2,10 +2,10 @@
 
 
 
-***Ejemplo correcto:***![](/home/abel/Escritorio/wordle-python/img/correcto.png)
+***Ejemplo correcto:***![](img/correcto.png)
 
 
 
 ***Ejemplo incorrecto:***
 
-![](/home/abel/Escritorio/wordle-python/img/incorrecto.png)
+![](img/incorrecto.png)
