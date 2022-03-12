@@ -2,7 +2,9 @@
 
 
 
-***Ejemplo correcto:***![](img/correcto.png)
+***Ejemplo correcto:***
+
+![](img/correcto.png)
 
 
 
