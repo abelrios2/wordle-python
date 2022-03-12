@@ -60,6 +60,7 @@ def match(hidden, guess):
         if info.a[i] == 2: # Solo nos interesan las que no eran iguales (las que están en BLANCO)
             for j in range (5):
                 if not used[j] and ( guess[i] == hidden[j] ): # Comprobamos si hay alguna letra igual en distintas posiciones...
+                    used[j] = True
                     info.a[i] = 1 # ... la pintamos de amarillo
                     break
 
